@@ -1,3 +1,6 @@
+Hi there
+
+
 # Visual ChatGPT 
 
 **Visual ChatGPT** connects ChatGPT and a series of Visual Foundation Models to enable **sending** and **receiving** images during chatting.
